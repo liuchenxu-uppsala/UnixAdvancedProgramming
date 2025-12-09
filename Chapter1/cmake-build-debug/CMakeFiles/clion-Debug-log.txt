@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/c/Users/Chenx/CLionProjects/APUE/LS -B /mnt/c/Users/Chenx/CLionProjects/APUE/LS
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Chenx/CLionProjects/APUE/LS

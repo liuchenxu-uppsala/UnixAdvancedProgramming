@@ -7,5 +7,7 @@ add_executable(Chapter2
         #main.c
         #Config.c
         #path_allocate.c
-        Max_open_files.c
-        Assignment/Assignment_1.c)
+        #Max_open_files.c
+        #Assignment/Assignment_1.c
+        #Assignment/LendLimitationDemo.c
+        Assignment/LegendOptionDemo.c)

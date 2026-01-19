@@ -14,6 +14,8 @@ int main() {
   if (sleep(2000) == 0) {
     printf("Sleep sucessfully \n");
   } else {
-    printf("ErrorSleep interruped \n");
+    if (errno == EINTR) {
+      printf("ErrorSleep interruped \n");
+    }
   }
 }

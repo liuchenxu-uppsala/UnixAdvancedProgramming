@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(linuxsystemprogram_chapter3
         #read.c
-        Fwrite.c)
+        #Fwrite.c
+        Exercise.c)

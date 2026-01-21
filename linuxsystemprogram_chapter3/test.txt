@@ -1,0 +1,4 @@
+aaa
+bbb
+ccc
+dddLet me try to write to text.txt

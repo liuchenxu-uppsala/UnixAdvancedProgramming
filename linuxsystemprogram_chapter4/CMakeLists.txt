@@ -10,4 +10,5 @@ add_executable(linuxsystemprogram_chapter4
         #poll_demo.c
         #epoll_demo.c
         #epoll_pipe.c
-        mmap_demo.c)
+        #mmap_demo.c
+        aio.c)

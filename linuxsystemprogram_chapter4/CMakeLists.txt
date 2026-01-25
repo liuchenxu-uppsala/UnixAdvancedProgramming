@@ -8,4 +8,6 @@ add_executable(linuxsystemprogram_chapter4
         #readv_demo.c
         #select_demo.c
         #poll_demo.c
-        epoll_demo.c)
+        #epoll_demo.c
+        #epoll_pipe.c
+        mmap_demo.c)
